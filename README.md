@@ -1,5 +1,7 @@
 # curve_navigation_bar
 
+![curve-navigation-bar](https://user-images.githubusercontent.com/99839506/225505349-37fc70ee-86e6-4c82-aa57-3482b4dd84bf.jpeg)
+
 A new Flutter project.
 
 ## Getting Started
